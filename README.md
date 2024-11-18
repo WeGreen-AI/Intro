@@ -6,7 +6,7 @@ It is a intro of WeGreen AI
 
 ## Hong Kong Baptist University
 
-![HKBU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVB5JILW4sFxl_QvLeKY7NQ8lEq0NG5zAxMQ&s "HKBU")
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVB5JILW4sFxl_QvLeKY7NQ8lEq0NG5zAxMQ&s" alt="HKBU" width="300" height="200">
 
 # Our Team Members
 
@@ -48,7 +48,7 @@ It is a intro of WeGreen AI
 
 ## Hiko Li Yanpei (Product Development)
 
-![Hiko](./Members/hikoAvator.png "hiko")
+<img src="./Members/hikoAvator.png" alt="hiko" width="300" height="200">
 
 **Academic Background:**
 
