@@ -48,6 +48,8 @@ It is a intro of WeGreen AI
 
 ## Hiko Li Yanpei (Product Development)
 
+![Hiko](./Members/hikoAvator.png "hiko")
+
 **Academic Background:**
 
 1. HKMU BSc - Computer Engineering
