@@ -4,8 +4,9 @@ It is a intro of WeGreen AI
 
 # Sponsor
 
-![HKBU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVB5JILW4sFxl_QvLeKY7NQ8lEq0NG5zAxMQ&s "HKBU")  
-Hong Kong Baptist University
+## Hong Kong Baptist University
+
+![HKBU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVB5JILW4sFxl_QvLeKY7NQ8lEq0NG5zAxMQ&s "HKBU")
 
 # Our Team Members
 
