@@ -1,4 +1,4 @@
-# WeGreen AI
+# [WeGreen AI](https://wegreen.ltd)
 
 It is a intro of WeGreen AI
 
