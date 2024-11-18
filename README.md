@@ -2,6 +2,11 @@
 
 It is a intro of WeGreen AI
 
+# Sponsor
+
+![HKBU](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVB5JILW4sFxl_QvLeKY7NQ8lEq0NG5zAxMQ&s "HKBU")  
+Hong Kong Baptist University
+
 # Our Team Members
 
 ## Ken Law Chun Hei (Business Development)
@@ -57,6 +62,6 @@ It is a intro of WeGreen AI
 1. Mainly Typescript & Python
 2. Frontend + Backend Building
 
-**Personal Web Page:** [Go to Personal Web Page](https://hiko.dev)
-**Github:** [Go to Personal Github](https://github.com/HikoPLi)
+**Personal Web Page:** [Go to Personal Web Page](https://hiko.dev)  
+**Github:** [Go to Personal Github](https://github.com/HikoPLi)  
 **LinkedIn:** [Go to LinkedIn](https://www.linkedin.com/in/liyanpeihiko/)
